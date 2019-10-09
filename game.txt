@@ -2,3 +2,7 @@ swarm 10hp
 swarm 9hp
 swarm 8hp
 swarm 7hp
+
+test git gui
+swarm 2hp
+swarm 1hp
