@@ -1,2 +1,4 @@
 swarm 10hp
 swarm 9hp
+swarm 8hp
+swarm 7hp
